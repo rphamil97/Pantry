@@ -6,3 +6,6 @@ I have no idea what I'm doing.
 * you must be able to pick a recipe and automatically generate a grocery list
 * you must be able to mark a recipe as "cooked" which will automatically decrement the food in your pantry
 * app will store data in a SQLite database
+
+
+Damn I haven't touched this in a minute, committing this to see if my PC is configured right
